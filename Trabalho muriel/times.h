@@ -1,0 +1,12 @@
+void cabecalho_TIME();
+void cadastrar_TIME();
+void listar_TIME();
+void pesquisarTECNICO_TIME();
+void pesquisarCONFERENCIA_TIME();
+void pesquisarID_TIME();
+void pesquisarRANKING_TIME();
+void pesquisarCIDADE_TIME();
+void pesquisar_TIME();
+void excluir_TIME();
+void converte_csv_TIME();
+void menu_TIME();
